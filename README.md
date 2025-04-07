@@ -1,2 +1,2 @@
 - hi, i’m joyce (she/her) and i'm an undergraduate student at northwestern university studying linguistics & computer science. i'm interested in topics in computational linguistics, bilingualism, sociolinguistics, and prosody.
-- i can be found at joycehuang2027@u.northwestern.edu
+- i can be found at joycexintianhuang@gmail.com
