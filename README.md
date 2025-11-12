@@ -1,2 +1,2 @@
-- hi, i’m joyce (she/her) and i'm an undergraduate student at northwestern university studying linguistics & computer science w/ asian american studies. i'm interested in topics in computational linguistics, bilingualism, sociolinguistics, and prosody.
+- hi, i’m joyce (she/her) and i'm an undergraduate student at northwestern university studying linguistics & computer science w/ asian american studies. i'm interested in topics in computational linguistics, bilingualism, sociolinguistics, phonetics, and phonology.
 - i can be contacted at joycehuang@northwestern.edu.
